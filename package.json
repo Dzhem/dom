@@ -1,0 +1,26 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dzhem/dom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dzhem/dom/issues"
+  },
+  "homepage": "https://github.com/Dzhem/dom#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "webpack": "^5.75.0"
+  },
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
